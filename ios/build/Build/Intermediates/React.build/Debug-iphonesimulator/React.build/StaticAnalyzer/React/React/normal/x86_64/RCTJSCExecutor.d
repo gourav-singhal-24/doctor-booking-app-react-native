@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/vipulsharma/Desktop/ClinicoApp/Clinico/node_modules/react-native/React/Executors/RCTJSCExecutor.m \
+  /Users/vipulsharma/Desktop/ClinicoApp/Clinico/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
+  /Users/vipulsharma/Desktop/ClinicoApp/Clinico/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/vipulsharma/Desktop/ClinicoApp/Clinico/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/vipulsharma/Desktop/ClinicoApp/Clinico/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/vipulsharma/Desktop/ClinicoApp/Clinico/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/vipulsharma/Desktop/ClinicoApp/Clinico/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/vipulsharma/Desktop/ClinicoApp/Clinico/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/vipulsharma/Desktop/ClinicoApp/Clinico/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/vipulsharma/Desktop/ClinicoApp/Clinico/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/vipulsharma/Desktop/ClinicoApp/Clinico/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/vipulsharma/Desktop/ClinicoApp/Clinico/node_modules/react-native/React/Modules/RCTDevMenu.h \
+  /Users/vipulsharma/Desktop/ClinicoApp/Clinico/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/vipulsharma/Desktop/ClinicoApp/Clinico/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/vipulsharma/Desktop/ClinicoApp/Clinico/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/vipulsharma/Desktop/ClinicoApp/Clinico/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/vipulsharma/Desktop/ClinicoApp/Clinico/node_modules/react-native/React/Profiler/RCTJSCProfiler.h \
+  /Users/vipulsharma/Desktop/ClinicoApp/Clinico/node_modules/react-native/React/Modules/RCTRedBox.h \
+  /Users/vipulsharma/Desktop/ClinicoApp/Clinico/node_modules/react-native/React/Modules/RCTSourceCode.h
